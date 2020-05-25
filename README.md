@@ -49,4 +49,6 @@ Tarako Chan – [@tozastation](https://github.com/tozastation)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
+## Reference
+- Author: [@takasp](https://qiita.com/takasp)
 <!-- Markdown link & img dfn's -->
