@@ -1,6 +1,6 @@
 terraform {
   backend "gcs" {
     bucket = "fcp-tf-state-dev"
-    prefix = "terraform/state"
+    prefix = "terraform/state/dev/dns"
   }
 }
